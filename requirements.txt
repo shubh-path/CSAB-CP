@@ -3,3 +3,4 @@ pycryptodome
 opencv-python-headless
 numpy
 pandas
+matplotlib
