@@ -726,5 +726,5 @@ def main():
                     st.pyplot(debug_fig)
 
 
-if __name__ == '_main_':
+if __name__ == '__main__':
     main()
