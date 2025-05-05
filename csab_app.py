@@ -12,7 +12,6 @@ from Crypto.Hash import SHA256
 import random
 import base64
 
-st.write("App is running")
 
 class CheetahKeyGenerator:
     def _init_(self, image):
