@@ -1,0 +1,5 @@
+streamlit
+pycryptodome
+opencv-python
+numpy
+pandas
