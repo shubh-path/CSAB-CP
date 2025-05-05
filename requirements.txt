@@ -1,6 +1,8 @@
 streamlit
-pycryptodome
 opencv-python-headless
 numpy
-pandas
 matplotlib
+Pillow
+qrcode
+imagehash
+pycryptodome
