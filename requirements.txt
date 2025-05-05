@@ -1,5 +1,5 @@
 streamlit
 pycryptodome
-opencv-python
+opencv-python-headless
 numpy
 pandas
